@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^displayThumbnail/([^/\.]+)/?$ displayThumbnail.php?pid=$1
